@@ -1654,7 +1654,7 @@ img {
 ```
 
 - [ ] `z-index: 1;z-index: 1;`
-- [ ] `z-index: -1;z-index: -1;`
+- [x] `z-index: -1;z-index: -1;`
 - [ ] `z-index: 0;z-index: 0;`
 - [ ] `z-index: true;z-index: true;`
 
